@@ -1,5 +1,6 @@
 ## 道阻且长 ,行则将至👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anglersking\&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anglersking\&layout=compact)
 <!--
 **anglersking/anglersking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
