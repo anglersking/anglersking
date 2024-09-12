@@ -4,6 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anglersking)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anglersking)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anglersking\&layout=compact)
 **anglersking/anglersking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
