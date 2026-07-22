@@ -26,12 +26,12 @@ The road is long and steep, but I'll get there.
 
 ## 🌱 I'm currently learning
 
-<!-- 填你正在学习的技术或方向 -->
+all
 
 ## 📫 How to reach me
 
-<!-- 填你的邮箱、博客、Twitter、B站等 --
+anglersking@163.com
 
 ## ⚡ Fun fact
 
-<!-- 一个关于你的趣事 -->
+No
