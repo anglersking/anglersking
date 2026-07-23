@@ -10,10 +10,11 @@ The road is long and steep, but I'll get there.
 <!-- ![AnglersKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anglersking&show_icons=true&theme=default&locale=cn)-->
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=anglersking"></a>
 
-![Top Langs](https://github-stats.vercel.app/api/top-langs/?username=anglersking&layout=compact&locale=cn)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anglersking&layout=compact&locale=cn)
 <!-- 启用 WakaTime 统计（需在 WakaTime 绑定 GitHub token）：
 ![WakaTime stats](https://github-stats.vercel.app/api/wakatime?username=anglersking&layout=compact)
 -->
+![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&layout=compact)
 
 ---
 
