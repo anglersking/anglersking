@@ -1,42 +1,131 @@
 # 👋 Hi, I'm AnglersKing
 
-**道阻且长，行则将至。**  
-The road is long and steep, but I'll get there.
+<div align="center">
+
+### 道阻且长，行则将至。
+
+**The road is long and steep, but I'll get there.**
+
+<img src="https://komarev.com/ghpvc/?username=anglersking&style=flat-square&color=blue" alt="profile views"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+👋 Hello! I'm AnglersKing.
+
+🌱 A developer who enjoys exploring new technologies.
+💡 Interested in open source, embedded systems and software development.
+🚀 Always learning, always building.
+
+"Stay curious. Keep creating."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,linux,git,docker,vscode,arduino,raspberrypi,github" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- ![AnglersKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anglersking&show_icons=true&theme=default&locale=cn)-->
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=anglersking"></a>
+<div align="center">
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anglersking&layout=compact&locale=cn)
-<!-- 启用 WakaTime 统计（需在 WakaTime 绑定 GitHub token）：
-![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&layout=compact)
- [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&langs_count=6)](https://wakatime.com/@anglersking)
+<a href="https://github.com/anglersking">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=anglersking&show_icons=true&theme=tokyonight&locale=en"/>
+</a>
 
+<a href="https://github.com/anglersking">
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anglersking&layout=compact&theme=tokyonight&locale=en"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![AnglersKing's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anglersking\&theme=react-dark)](https://github.com/anglersking)
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+
+* 🚀 Exploring interesting open-source projects
+* 🔧 Building personal projects and tools
+* 🌐 Learning modern software technologies
+* ⚡ Experimenting with embedded development
+
+<!-- 
+Example:
+
+- [one_esp32_core_display](https://github.com/anglersking/one_esp32_core_display)
+  - ESP32 related hardware project
+
+- [mapcn](https://github.com/anglersking/mapcn)
+  - Beautiful map components, 100% Free
 -->
 
 ---
-### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anglersking&theme=react-dark)](https://github.com/anglersking/github-readme-activity-graph)
+## 🌱 Currently Learning
 
-## 🔭 I'm currently working on
+```yaml
+Learning:
+  - Software Architecture
+  - Open Source Development
+  - Embedded Systems
+  - Cloud & DevOps
+  - Everything interesting :)
+```
 
-<!-- 填你正在做的项目，例如：
-- [one_esp32_core_display](https://github.com/anglersking/one_esp32_core_display) — 一个 ESP32 核心板项目
-- [mapcn](https://github.com/anglersking/mapcn) — Beautiful map components, 100% Free
--->
+---
 
-## 🌱 I'm currently learning
+## 📫 Contact Me
 
-all
+<div>
 
-## 📫 How to reach me
-- **QQ** : 418848424
-- **E-mail** : anglersking@163.com
+📧 Email: **[anglersking@163.com](mailto:anglersking@163.com)**
 
-## ⚡ Fun fact
+💬 QQ: **418848424**
 
-No
+🐙 GitHub: **https://github.com/anglersking**
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+while(alive) {
+    learn();
+    build();
+    improve();
+}
+```
+
+✨ Keep moving forward.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**道阻且长，行则将至。**
+
+</div>
