@@ -34,8 +34,8 @@ The road is long and steep, but I'll get there.
 all
 
 ## 📫 How to reach me
-
-anglersking@163.com
+- **QQ** : 418848424
+- **E-mail** : anglersking@163.com
 
 ## ⚡ Fun fact
 
