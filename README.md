@@ -12,10 +12,11 @@ The road is long and steep, but I'll get there.
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anglersking&layout=compact&locale=cn)
 <!-- 启用 WakaTime 统计（需在 WakaTime 绑定 GitHub token）：
-![WakaTime stats](https://github-stats.vercel.app/api/wakatime?username=anglersking&layout=compact)
--->
 ![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&layout=compact)
+-->
 
+
+ [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&langs_count=6)](https://wakatime.com/@anglersking)
 ---
 
 ## 🔭 I'm currently working on
