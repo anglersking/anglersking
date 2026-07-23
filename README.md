@@ -7,7 +7,8 @@ The road is long and steep, but I'll get there.
 
 ## 📊 GitHub Stats
 
-![AnglersKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anglersking&show_icons=true&theme=default&locale=cn)
+<!-- ![AnglersKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anglersking&show_icons=true&theme=default&locale=cn)-->
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=anglersking"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anglersking&layout=compact&locale=cn)
 
