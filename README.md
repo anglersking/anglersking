@@ -18,6 +18,9 @@ The road is long and steep, but I'll get there.
 -->
 
 ---
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anglersking&theme=react-dark)](https://github.com/anglersking/github-readme-activity-graph)
 
 ## 🔭 I'm currently working on
 
