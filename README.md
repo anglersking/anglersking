@@ -16,8 +16,6 @@ The road is long and steep, but I'll get there.
  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&langs_count=6)](https://wakatime.com/@anglersking)
 
 -->
-![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=anglersking&layout=compact)
-
 
 ---
 
